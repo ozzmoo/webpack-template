@@ -1,0 +1,19 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozzmoo/webpack-template.git"
+  },
+  "author": "ozzmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozzmoo/webpack-template/issues"
+  },
+  "homepage": "https://github.com/ozzmoo/webpack-template#readme"
+}
